@@ -53,7 +53,7 @@ openvpn <username>.ovpn
 
 This should generate the following output.
 
- ![image7](images/how-to-connect-to-dedicated-server/7.png)
+ ![image9](images/how-to-connect-to-dedicated-server/9.png)
  
  
  ## Step 4 - Test the Connection
