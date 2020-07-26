@@ -53,7 +53,7 @@ openvpn <username>.ovpn
 
 This should generate the following output.
 
- ![image9](images/how-to-connect-to-dedicated-server/9.png)
+ ![image8](images/how-to-connect-to-dedicated-server/8.png)
  
  
  ## Step 4 - Test the Connection
@@ -76,7 +76,7 @@ This should generate the following output.
  
  In the menu on the left, click on *Dedicated Labs* > select *US Dedicated xx*. There you'll see the list of available boxes on the dedicated server and the associated IP addresses.
  
-  ![image8](images/how-to-connect-to-dedicated-server/8.png)
+  ![image9](images/how-to-connect-to-dedicated-server/9.png)
   
   Ping one of the IPs to test the connection.
   
